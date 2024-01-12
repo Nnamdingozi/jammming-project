@@ -1,0 +1,40 @@
+.searchResults {
+    height: auto;
+    width: 48%;
+    background: linear-gradient(45deg, rgb(226, 169, 213), rgb(61, 4, 84));
+    padding-top: 3%;
+    margin-left: 2%;
+}
+
+ul {
+
+    width: 85%;
+    height: auto;
+    margin-left: 1%;
+    margin-bottom: 3%;
+
+
+
+
+}
+
+li {
+    list-style-type: none;
+    list-style-position: inside;
+    border: 2px solid rgb(101, 95, 95);
+    position: relative;
+    border-radius: 2%;
+    width: 100%;
+}
+
+.btn {
+    position: absolute;
+    left: 90%;
+    top: 45%;
+    background: transparent;
+}
+
+p {
+    line-height: 6px;
+    color: bisque;
+}
