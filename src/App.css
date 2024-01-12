@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background: linear-gradient(180deg, rgb(169, 42, 169), rgb(5, 5, 70));
-  
+  box-sizing: border-box;
   }
   
   h1{
