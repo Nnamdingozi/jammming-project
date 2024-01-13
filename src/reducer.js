@@ -2,8 +2,7 @@
 
 
 
-const initialState = { term: ""}
-export function searchTermReducer(state=initialState, action){
+export function searchTermReducer(state, action){
     switch(action.type) {
         case 'setSearchTerm' : 
         return {
